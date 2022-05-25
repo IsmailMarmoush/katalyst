@@ -4,8 +4,7 @@
 The Spotlight App Project is a sustained effort to amass a coalition of
 nonprofits in order to address specific needs within the communities we serve by leveraging a
 centralized platform as the base of operations to collaborate and make a collective impact.
-
-## Problems
+The App is meant to solve the following problems:
 * The decentralization and lack of support between nonprofits create gaps
 of service and overall impact.
 
